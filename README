@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4206
+
+A very simple plugin to enable SQL syntax highlighting inside strings in a
+Java file. If you can handle the visual trip of two syntax highlighters
+co-existing, this plugin will provide.
